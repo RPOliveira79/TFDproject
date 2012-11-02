@@ -7,3 +7,4 @@ public class Message { //parrent class
         return 0;
     }
 }
+//commit test
