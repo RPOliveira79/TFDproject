@@ -9,6 +9,7 @@ import Message.Request;
 
 
 public class VRstate {
+	
 	//public String[][] config; 								//here addresses and ports (because we're testing on one computer)
 	public int rep_number; 									//id of this replica
 	public int view_number; 								// just view number
